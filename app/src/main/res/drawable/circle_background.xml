@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Circle color -->
+    <solid android:color="#FFFFFF"/>
+
+    <!-- Optional border / stroke -->
+    <stroke
+        android:width="3dp"
+        android:color="#00BCD4"/> <!-- Teal border, change as needed -->
+
+    <!-- Optional shadow effect (only visual padding) -->
+    <padding
+        android:left="2dp"
+        android:top="2dp"
+        android:right="2dp"
+        android:bottom="2dp" />
+</shape>

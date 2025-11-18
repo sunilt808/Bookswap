@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected -->
+    <item android:color="@android:color/black" android:state_checked="true" />
+
+    <!-- Default → Keep original icon color -->
+    <item android:color="#3F51B5" android:state_checked="true"/>
+    <item android:color="#444444"/>
+    <item android:color="@android:color/black"/>
+</selector>

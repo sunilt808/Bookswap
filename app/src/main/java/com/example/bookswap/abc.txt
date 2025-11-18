@@ -1,0 +1,5 @@
+Name: Admin
+Email: admin@bookswap.com
+Password: admin123
+Role: admin
+@@

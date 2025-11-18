@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BOOKSWAP</string>
+
+    <!-- Added to fix: resource array/roles_array not found -->
+    <string-array name="roles_array">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+
+</resources>
